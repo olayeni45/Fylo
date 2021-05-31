@@ -166,6 +166,7 @@ z-index: 1;
 
 .cellCenter p{
   color:white;
+  font-size: 15px;
   font-family: 'Open Sans', sans-serif;
   line-height: 50%;
 }
