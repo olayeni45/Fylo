@@ -150,7 +150,7 @@ z-index: 1;
 }
 
 .cell{
-  width:410px;
+  width:430px;
   height:350px;
   display: flex;
   align-items: center;
@@ -158,7 +158,7 @@ z-index: 1;
 }
 
 .cellCenter{
-  width:410px;
+  width:430px;
   height:250px;
   text-align: center;
   align-items: center;
